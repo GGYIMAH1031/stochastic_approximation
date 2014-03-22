@@ -1,0 +1,6 @@
+numpy==1.8.0
+pandas==0.13.1
+python-dateutil==2.2
+pytz==2014.1.1
+six==1.6.1
+wsgiref==0.1.2
